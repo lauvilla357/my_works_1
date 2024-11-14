@@ -1,0 +1,14 @@
+HELLO!
+
+MY NAME IS LAUTARO VILLAFAÑE.
+
+PLEASE, TAKE A MINUTE TO EXPLORE SOME OF THE TWO BRANCHES INSIDE "main":
+
+1) More_To_see: Group of python scripts very interesting, an ajedrez painting program, selector
+of SCP subject to write, and so on.
+
+2) web_project_1: A website project center to login, finish session, charge and discharge from
+a database as MariaDB, read, bassically CRUD secuence.
+
+Thank you to take time to see.
+Greetings :)
