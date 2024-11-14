@@ -1,7 +1,10 @@
-#import sys
-#sys.set_int_max_str_digits(1000000000)
+## Lautaro Villafañe
+## ivilla1357@gmail.com
+## 3513830721
+## Argentina
+## ############################################################################################################################## ##
 
-#me importa el de la posicion 2023202320232023
+## Programa ready. Si me importara el valor de la posición 2023202320232023, no se podría alcanzar por cuestión de tiempo.
 
 ejecucion=1
 while ejecucion:
@@ -77,12 +80,7 @@ while ejecucion:
 
     ejecucion=int(input('\n¿Quiere repetir? Si = 1, No = 0\n'))
 
-
-
-
-
-
-
+## ###################################################################################################################### ##
 
 ##    BUENO, EL PROGRAMA ESTA LISTO. PARA SOLUCIONAR EL TIEMPO DE EJECUACION, SOLO SE TIENE QUE CONTINUAR
 ##    CON LOS ADELANTAMIENTOS DE LOS VALORES A, B Y C DE MANERA DE REDUCIR EL PODER DE COMPUTO
