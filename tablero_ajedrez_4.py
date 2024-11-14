@@ -1,7 +1,7 @@
 # Lautaro Villafañe
-# lautarovillafane27@gmail.com
-# +543513830721
-# Córdoba, Argentina
+# ivilla1357@gmail.com
+# 543513830721
+# Argentina
 #---------------------------------------------------------------------------
 # Un tablero de ajedrez no es otra cosa que una matriz cuadrada.
 # Si los cuadrados que componene el tablero tienen dos colores, uno
