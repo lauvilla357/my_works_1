@@ -63,8 +63,14 @@ while 1:
                         print (siguiente_final)
                         break
 
+## ################################################################################################################################ ##
+## I hope you enjoy this mini-app dedicated to SCP FOUNDATION PROJECT, :)
+## Thanks to see.
 
-
+## Lautaro Villafañe
+## ivilla1357@gmail.com
+## Argentina
+ 
 
 
 
